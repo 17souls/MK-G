@@ -22,10 +22,28 @@ luego con:
 
 creamos los archivos ".HTML" para subirlas a github y poner nuestra pagina online.
 
+### Git
 
-### Para subir nuestros archivos a un repositorio iniciamos un repositorio local con:
+
+Para subir nuestros archivos a un repositorio iniciamos un repositorio local con:
 
      >git init
+
+Agregamos los archivos que queremos trackear:
+
+     >git add archivo.extension carpeta/
+
+Hacemos un commit:
+
+     >git commit -m "primer commit"
+
+>i **es importante escribir una descripción clara para el commit** 
+
+Ahora podemos enlazar nuestro repositorio local con el remoto:
+
+     >git remote add origin url.com
+
+Ya enlazados podemos subir los archivos que queremos al repositorio 
 
 
 
