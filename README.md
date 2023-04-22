@@ -1,3 +1,3 @@
 # MK-G
 
-en este repositorio solo se debe guardar el build.
+en esta branch solo se debe guardar el build.
